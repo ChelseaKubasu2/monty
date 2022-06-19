@@ -1,4 +1,6 @@
 0x18. C - Stacks, Queues - LIFO, FIFO
+
+
 Project background Info
 What do LIFO and FIFO mean
 What is a stack, and when to use it
@@ -29,4 +31,6 @@ Implement the nop opcode.
 The opcode nop doesn’t do anything.
 Advanced Tasks
 opcodes: sub, div, mul, mod, comments, pchar, pstr, rotl, rotr, stack, queue, Holberton, Add two digits, Multiplication, Multiplication level up
+
+
 Authors-Chelsea kubasu
